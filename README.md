@@ -6,7 +6,8 @@ the best roblox automation on github
 
 # How To Use
 - Download the zip
-- make sure you have python downlaoded
+- make sure you have python downlaoded, if you dont you can download it here: https://www.python.org/downloads/ and download python 3.11.4
+  when you download it make sure to tick the "ADD TO PATH" box when downloading it. there are tutorials on youtube.
 - open the "run" file
 - go to trade hangout
 - go to roblox.com/trades and let the profit roll in
