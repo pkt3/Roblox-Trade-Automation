@@ -1,11 +1,11 @@
-# 🤖Roblox Trade Automation
+# Roblox Trade Automation
 the best roblox automation on github
 
-- 💸Nearly DOUBLES Profit Overnight
+- Nearly DOUBLES Profit Overnight
 - start with atleast 10k in small or large items
 - encrypted for your safety
 
-# 🖥️Updates / New Features
+# 🖥Updates / New Features
 
 - added fps reduction for long use
 - added customisable settings
