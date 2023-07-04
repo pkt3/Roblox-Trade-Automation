@@ -1,0 +1,12 @@
+# Roblox Trade Bot
+# Uses Python to run so it never faults
+# if you run into an error please feel free to DM bvs#2880 on Discord
+
+timeloop(99999999) # How long the python bot stays on for.
+trade_filter = high
+trade_filter_on = true
+
+stop_loss = true # makes sure you get good quality trades / if you dont it will decline all low filtered trades.
+trade_send_out = true # if you set to true it just sends out trades to people in the server, i would recomend keeping this set to true as you have a higher chance of making good profit. and less bad trades.
+
+robux_count(0) #imput the amount of robux you have, the bot will use the funds in trades for you, if you have none, keep it as 0.
